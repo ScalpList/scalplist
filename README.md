@@ -1,3 +1,3 @@
-### Scalplist.com
+## Scalplist.com
 
-## Repo for bug reports
+### Repo for bug reports
